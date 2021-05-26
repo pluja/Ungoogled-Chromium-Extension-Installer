@@ -4,7 +4,7 @@ A [very] simple yet effective extension installer for UnGoogled Chromium. Just a
 
 ## Usage
 1. Clone this repository, download the html file or copy & paste its content on a local file.
-2. Open the `extension_installer.html` file on your UnGoogled Chromium installation.
+2. Open the `installer.html` file on your UnGoogled Chromium installation.
 3. Optionally bookmark the page.
 
 ### How to use
